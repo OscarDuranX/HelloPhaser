@@ -1,0 +1,15 @@
+{
+  "name": "hellophaser",
+  "version": "1.0.0",
+  "description": "Hola phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Duran Marti",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^2.4.6"
+  },
+  "devDependencies": {}
+}
